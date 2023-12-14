@@ -1,0 +1,3 @@
+The Traffic Signal will consist of of three LEDs of colours Red, Green and Yellow. These will light up alternatively with gaps of 5seconds.
+
+The hardware section will use one breadboard, one arduino uno, three leds, three resistors, jumper wires and wires. The leds will be connected to the digital pins of the arduino board through resistors on one end  and to the ground on the other.
